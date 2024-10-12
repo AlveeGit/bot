@@ -43,7 +43,7 @@ const Home = () => {
       />
 
       <Brands
-        title="More than 21 million Discord servers use MEE6"
+        title="More than 21 million Discord servers use Bot-Pro"
         logos={brandLogos}
       />
 
@@ -60,17 +60,17 @@ const Home = () => {
       ))}
 
       <Server
-        heading="MEE6 is trusted and used by more than 21 Million servers"
+        heading="Bot-Pro is trusted and used by more than 21 Million servers"
         serverCardsData={serverCardsData}
       />
 
       <Facility
-        heading="MEE6: The Best All-in-One Discord Bot"
+        heading="Bot-Pro: The Best All-in-One Discord Bot"
         facilitiesData={facilitiesData}
       />
       <Guide
-        heading="Discover MEE6 Tutorials, Documents and Guides"
-        paragraph="Whether you're new to Discord or have plenty of experience, the MEE6 team creates tutorials and resources to help you get rolling on your server. Check out our tutorials and get started today!"
+        heading="Discover Bot-Pro Tutorials, Documents and Guides"
+        paragraph="Whether you're new to Discord or have plenty of experience, the Bot-Pro team creates tutorials and resources to help you get rolling on your server. Check out our tutorials and get started today!"
         cards={guideCardsData}
         buttonText="Learn More"
       />

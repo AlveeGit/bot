@@ -71,14 +71,14 @@ export const linkCardsDataResources = [
     icon: FaRegQuestionCircle,
     title: "Tutorials",
     description:
-      "Consult our documentation to get more details about how to use MEE6 on Discord",
+      "Consult our documentation to get more details about how to use Bot-Pro on Discord",
   },
 
   {
     icon: IoPeople,
     title: "Careers",
     description:
-      "Join MEE6 and build tools to manage amazing communities worldwide",
+      "Join Bot-Pro and build tools to manage amazing communities worldwide",
   },
 
   {
@@ -113,7 +113,7 @@ export const spotlightData = {
       image: spotlight2,
       title: "How to enable intents for your Custom Bot",
       description:
-        "The intents are essential to make your Custom Bot perform all MEE6 functions",
+        "The intents are essential to make your Custom Bot perform all Bot-Pro functions",
       linkText: "Read Article",
       to: "/custom-bots",
     },
@@ -121,7 +121,7 @@ export const spotlightData = {
       image: spotlight1,
       title: "How to start using Moderation tools",
       description:
-        "The MEE6 Moderator plugin is an essential tool for your Discord community.",
+        "The Bot-Pro Moderator plugin is an essential tool for your Discord community.",
       linkText: "Read Article",
       to: "/moderation",
     },

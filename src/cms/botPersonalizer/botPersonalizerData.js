@@ -9,7 +9,7 @@ export const botPersonalizerData = [
   {
     title: "Build Your Own Discord Bot",
     paragraph:
-      "Customize your bot by changing its avatar, name, and activity while leveraging the power of MEE6 plugins.",
+      "Customize your bot by changing its avatar, name, and activity while leveraging the power of Bot-Pro plugins.",
     showDiscordButton: true,
     image: botPersonalizerImg1,
     imagePosition: "right",
@@ -33,7 +33,7 @@ export const botPersonalizerData = [
   {
     title: "Setup your own bot in less than 3 minutes",
     paragraph:
-      "No need to learn how to code. You can setup your own bot and enjoy the power of MEE6’s plugins! We host the bot for you 24/7 at no extra cost!",
+      "No need to learn how to code. You can setup your own bot and enjoy the power of Bot-Pro’s plugins! We host the bot for you 24/7 at no extra cost!",
     showDiscordButton: true,
     image: botPersonalizerImg2,
     imagePosition: "right",

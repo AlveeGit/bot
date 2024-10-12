@@ -32,74 +32,35 @@ const Footer = () => {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-y-10 md:grid-cols-3 md:gap-y-0 lg:gap-x-16 xl:gap-x-20">
           <nav className="flex flex-col gap-y-3">
             <h4 className="text-sm text-white">Plugins</h4>
-            <FooterLink
-              href="#"
-              text="Server management"
-            />
-            <FooterLink
-              href="#"
-              text="Utilities"
-            />
-            <FooterLink
-              href="#"
-              text="Social Alerts"
-            />
-            <FooterLink
-              href="#"
-              text="Engagement & Fun"
-            />
-            <FooterLink
-              href="#"
-              text="AI Characters"
-            />
+            <FooterLink href="#" text="Server management" />
+            <FooterLink href="#" text="Utilities" />
+            <FooterLink href="#" text="Social Alerts" />
+            <FooterLink href="#" text="Engagement & Fun" />
+            <FooterLink href="#" text="AI Characters" />
           </nav>
 
           <nav className="flex flex-col gap-y-3">
-            <h4 className="text-sm text-white">MEE6</h4>
-            <FooterLink
-              href="#"
-              text="Premium"
-            />
-            <FooterLink
-              href="#"
-              text="Bot Personalizer"
-            />
-            <FooterLink
-              href="#"
-              text="Support Server"
-            />
-            <FooterLink
-              href="#"
-              text="Support Portal"
-            />
-            <FooterLink
-              href="#"
-              text="Support Contact"
-            />
+            <h4 className="text-sm text-white">Bot-Pro</h4>
+            <FooterLink href="#" text="Premium" />
+            <FooterLink href="#" text="Bot Personalizer" />
+            <FooterLink href="#" text="Support Server" />
+            <FooterLink href="#" text="Support Portal" />
+            <FooterLink href="#" text="Support Contact" />
           </nav>
 
           <nav className="flex flex-col gap-y-3">
             <h4 className="text-sm text-white">Company</h4>
             <div className="flex items-center gap-x-3">
               <FooterLink href="#" text="Careers" />
-              <a href="xyz" >
+              <a href="xyz">
                 <button className="bg-indigo-600 text-white py-2 px-4 rounded flex items-center space-x-2 hover:bg-indigo-700 transition text-sm">
                   Hiring
                 </button>
               </a>
             </div>
-            <FooterLink
-              href="/privacy "
-              text="Privacy Policy"
-            />
-            <FooterLink
-              href="/terms"
-              text="Terms & Conditions"
-            />
-            <FooterLink
-              href="#"
-              text="Contact"
-            />
+            <FooterLink href="/privacy " text="Privacy Policy" />
+            <FooterLink href="/terms" text="Terms & Conditions" />
+            <FooterLink href="#" text="Contact" />
           </nav>
         </div>
       </div>

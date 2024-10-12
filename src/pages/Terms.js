@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Terms = () => {
   return (
@@ -6,7 +6,7 @@ const Terms = () => {
       <section className="max-w-7xl mx-auto px-4 py-10 sm:px-6 lg:px-8 lg:py-6">
         {/* 1st section */}
         <h2 className="mb-10 text-xl font-bold text-center">
-          Mee6 – Terms of Use
+          Bot-Pro – Terms of Use
         </h2>
         <p className="text-xs">
           Date of the latest revision: February 20th, 2023
@@ -17,7 +17,7 @@ const Terms = () => {
         <p className="my-5 text-xs">
           This Platform and the Features are provided by: Sidescroll Ventures
           SAS, 66 Avenue des ChampsÉlysées, Paris 75008, France. Contact email:
-          support@mee6.bot <br />
+          support@Bot-Pro.bot <br />
           • The right of withdrawal only applies to European Consumers. The
           right of withdrawal, also commonly called the right of cancellation in
           the UK, is consistently referred to as “the right of withdrawal”
@@ -194,6 +194,6 @@ const Terms = () => {
       </section>
     </div>
   );
-}
+};
 
-export default Terms
+export default Terms;

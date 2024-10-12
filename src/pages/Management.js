@@ -9,7 +9,7 @@ const Management = () => {
     <div>
       <Hero
         title="The best moderation bot for Discord"
-        paragraph="Keep your Discord server safe and organized with MEE6's advanced auto-moderation filters. Set up rules and filters for bad behavior, track server activity, and welcome new members with ease."
+        paragraph="Keep your Discord server safe and organized with Bot-Pro's advanced auto-moderation filters. Set up rules and filters for bad behavior, track server activity, and welcome new members with ease."
         showDiscordButton
         backgroundImage={managementHeroBg}
       />

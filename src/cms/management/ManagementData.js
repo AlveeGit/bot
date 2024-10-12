@@ -15,7 +15,7 @@ export const featureManagementData = [
   {
     title: "Discord Auto-Mod rules",
     paragraph:
-      "Set up auto-moderation rules for your server and let MEE6 protect your server even when you’re away.",
+      "Set up auto-moderation rules for your server and let Bot-Pro protect your server even when you’re away.",
     image: management0,
     imagePosition: "right",
   },
@@ -32,7 +32,7 @@ export const featureManagementData = [
     icon: TbCircleNumber2Filled,
     title: "Track your server activity",
     paragraph:
-      "Choose a private channel for MEE6 to notify you and your moderators of updates, deleted messages, and other voice, server or channel events!",
+      "Choose a private channel for Bot-Pro to notify you and your moderators of updates, deleted messages, and other voice, server or channel events!",
     showDiscordButton: true,
     image: management2,
     imagePosition: "right",
@@ -41,7 +41,7 @@ export const featureManagementData = [
     icon: TbCircleNumber3Filled,
     title: "Advanced moderation Commands",
     paragraph:
-      "MEE6 provides over 15 pre-made moderation commands giving your moderators the right tools to keep your server in order.",
+      "Bot-Pro provides over 15 pre-made moderation commands giving your moderators the right tools to keep your server in order.",
     showDiscordButton: true,
     image: management3,
     imagePosition: "right",

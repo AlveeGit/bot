@@ -2,7 +2,7 @@ import React from "react";
 import { utilitiesData } from "../cms/utilities/utilitiesData";
 import Feature from "../components/Feature";
 import Hero from "../components/Hero";
-import { utilitiesHeroBg, } from "../assets/images";
+import { utilitiesHeroBg } from "../assets/images";
 import Promo from "../components/Promo";
 import { FaDiscord } from "react-icons/fa6";
 
@@ -11,7 +11,7 @@ const Utilities = () => {
     <div>
       <Hero
         title="All the tools you need in a single bot"
-        paragraph="MEE6 offers multiple plugins. Our dashboard is simple to configure and you only use what you need, when you need it."
+        paragraph="Bot-Pro offers multiple plugins. Our dashboard is simple to configure and you only use what you need, when you need it."
         showDiscordButton // show discord button
         // secondaryButtonText="See Features" //secondary button
         // alignment="right"   //left,rigth, default center

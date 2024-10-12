@@ -33,7 +33,7 @@ const Navbar = () => {
             className="text-white text-xl font-bold"
             onClick={handleLinkClick}
           >
-            BrandLogo
+            Bot-Pro
           </Link>
 
           {navItems.map(

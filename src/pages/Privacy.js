@@ -6,9 +6,11 @@ const Privacy = () => {
       <section className="max-w-7xl mx-auto px-4 py-10 sm:px-6 lg:px-8 lg:py-6">
         {/* 1st section */}
         <h2 className="mb-10 text-xl">
-          Privacy Policy of <span className="font-bold">mee6.xyz</span>
+          Privacy Policy of <span className="font-bold">Bot-Pro.xyz</span>
         </h2>
-        <p className="text-xs">This Website collects some Personal Data from its Users.</p>
+        <p className="text-xs">
+          This Website collects some Personal Data from its Users.
+        </p>
         <p className="my-5">
           This document can be printed for reference by using the print command
           in the settings of any browser.
@@ -64,9 +66,9 @@ const Privacy = () => {
           The Owner takes appropriate security measures to prevent unauthorized
           access, disclosure, modification, or unauthorized destruction of the
           Data. <br /> <br />
-          The Data processing is carried out using computers and/or IT
-          enabled tools, following organizational procedures and modes strictly
-          related to the purposes indicated. <br /> In addition to the Owner, in some
+          The Data processing is carried out using computers and/or IT enabled
+          tools, following organizational procedures and modes strictly related
+          to the purposes indicated. <br /> In addition to the Owner, in some
           cases, the Data may be accessible to certain types of persons in
           charge, involved with the operation of this Website (administration,
           sales, marketing, legal, system administration) or external parties
@@ -79,8 +81,8 @@ const Privacy = () => {
         <h3 className="font-bold">Place</h3>
         <p className="text-xs">
           The Data is processed at the Owner's operating offices and in any
-                  other places where the parties involved in the processing are located.
-                  <br />
+          other places where the parties involved in the processing are located.
+          <br />
           Depending on the User's location, data transfers may involve
           transferring the User's Data to a country other than their own. To
           find out more about the place of processing of such transferred Data,
@@ -96,7 +98,7 @@ const Privacy = () => {
           legal obligation or based on the Users’ consent.
         </p>
         <hr className="my-5" />
-        
+
         {/* 5th section */}
         <h2 className="font-bold">The purposes of processing</h2>
         <p className="text-xs">
@@ -107,10 +109,10 @@ const Privacy = () => {
           activity, as well as the following: Analytics, Traffic optimization
           and distribution, Displaying content from external platforms,
           Infrastructure monitoring, Handling payments, Social features, Hosting
-          and backend infrastructure and Registration and authentication. <br /> For
-          specific information about the Personal Data used for each purpose,
-          the User may refer to the section “Detailed information on the
-          processing of Personal Data”.
+          and backend infrastructure and Registration and authentication. <br />{" "}
+          For specific information about the Personal Data used for each
+          purpose, the User may refer to the section “Detailed information on
+          the processing of Personal Data”.
         </p>
         <hr className="my-5" />
         {/* 6th section */}
@@ -120,9 +122,10 @@ const Privacy = () => {
           Cookie Policy.
         </p>
         <hr className="my-5" />
-        
+
         {/* 7th section */}
-        <h2 className="text-xl font-bold">Further Information for Users</h2><br />
+        <h2 className="text-xl font-bold">Further Information for Users</h2>
+        <br />
         <h3 className=" font-bold">Legal basis of processing</h3>
         <p className="text-xs">
           In any case, the Owner will gladly help to clarify the specific legal
@@ -135,16 +138,17 @@ const Privacy = () => {
         <p className="text-xs">
           Unless specified otherwise in this document, Personal Data shall be
           processed and stored for as long as required by the purpose they have
-          been collected for and may be retained for longer due to applicable.  <br />
+          been collected for and may be retained for longer due to applicable.{" "}
+          <br />
           legal obligation or based on the Users’ consent. The Owner may be
           allowed to retain Personal Data for a longer period whenever the User
           has given consent to such processing, as long as such consent is not
-          withdrawn. <br /> Furthermore, the Owner may be obliged to retain Personal
-          Data for a longer period whenever required to fulfil a legal
+          withdrawn. <br /> Furthermore, the Owner may be obliged to retain
+          Personal Data for a longer period whenever required to fulfil a legal
           obligation or upon order of an authority.
         </p>
         <hr className="my-5" />
-       
+
         <h3 className="font-bold">
           Details about the right to object to processing
         </h3>
@@ -153,14 +157,14 @@ const Privacy = () => {
           exercise of an official authority vested in the Owner or for the
           purposes of the legitimate interests pursued by the Owner, Users may
           object to such processing by providing a ground related to their
-                  particular situation to justify the objection. <br />        Users must know that,
-          however, should their Personal Data be processed for direct marketing
-          purposes, they can object to that processing at any time, free of
-          charge and without providing any justification. Where the User objects
-          to processing for direct marketing purposes, the Personal Data will no
-          longer be processed for such purposes.  <br /> To learn whether the Owner is
-          processing Personal Data for direct marketing purposes, Users may
-          refer to the relevant sections of this document.
+          particular situation to justify the objection. <br /> Users must know
+          that, however, should their Personal Data be processed for direct
+          marketing purposes, they can object to that processing at any time,
+          free of charge and without providing any justification. Where the User
+          objects to processing for direct marketing purposes, the Personal Data
+          will no longer be processed for such purposes. <br /> To learn whether
+          the Owner is processing Personal Data for direct marketing purposes,
+          Users may refer to the relevant sections of this document.
         </p>
         <hr className="my-5" />
         <h4 className="text-xs font-bold">Latest update: September 08, 2020</h4>
